@@ -1,0 +1,607 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 5
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 1009246
+   guestCount: 4672
+   packageSizes: [1,5]
+   packageCosts: [263,1080]
+
+ - problem: 2
+   correct_answer: 2025840
+   guestCount: 7340
+   packageSizes: [1,5,10]
+   packageCosts: [276,1486,2994]
+
+ - problem: 3
+   correct_answer: 1859574
+   guestCount: 8491
+   packageSizes: [1,5,10,62]
+   packageCosts: [264,1095,2925,17199]
+
+ - problem: 4
+   correct_answer: 1298127
+   guestCount: 6351
+   packageSizes: [1,5,10,73,93]
+   packageCosts: [347,1359,2249,14921,21206]
+
+ - problem: 5
+   correct_answer: 2217131
+   guestCount: 7567
+   packageSizes: [1,5]
+   packageCosts: [293,1470]
+
+ - problem: 6
+   correct_answer: 1782574
+   guestCount: 7299
+   packageSizes: [1,5,10]
+   packageCosts: [265,1296,2442]
+
+ - problem: 7
+   correct_answer: 910358
+   guestCount: 3790
+   packageSizes: [1,5,10,53]
+   packageCosts: [302,1223,2402,13094]
+
+ - problem: 8
+   correct_answer: 1415467
+   guestCount: 6470
+   packageSizes: [1,5,10,64,39]
+   packageCosts: [279,1252,2189,15630,8532]
+
+ - problem: 9
+   correct_answer: 527670
+   guestCount: 2475
+   packageSizes: [1,5]
+   packageCosts: [352,1066]
+
+ - problem: 10
+   correct_answer: 1269129
+   guestCount: 5066
+   packageSizes: [1,5,10]
+   packageCosts: [309,1290,2505]
+
+ - problem: 11
+   correct_answer: 0
+   guestCount: 0
+   packageSizes: [1,5,10,12]
+   packageCosts: [272,1071,2300,2758]
+
+ - problem: 12
+   correct_answer: 2047499
+   guestCount: 8987
+   packageSizes: [1,5,10,42,79]
+   packageCosts: [265,1564,2278,11887,21963]
+
+ - problem: 13
+   correct_answer: 2449697
+   guestCount: 9286
+   packageSizes: [1,5]
+   packageCosts: [314,1319]
+
+ - problem: 14
+   correct_answer: 264808
+   guestCount: 1225
+   packageSizes: [1,5,10]
+   packageCosts: [282,1478,2159]
+
+ - problem: 15
+   correct_answer: 638698
+   guestCount: 2828
+   packageSizes: [1,5,10,44]
+   packageCosts: [291,1351,2257,12439]
+
+ - problem: 16
+   correct_answer: 259264
+   guestCount: 1132
+   packageSizes: [1,5,10,36,90]
+   packageCosts: [360,1144,2835,9433,25149]
+
+ - problem: 17
+   correct_answer: 2218392
+   guestCount: 8403
+   packageSizes: [1,5]
+   packageCosts: [264,1542]
+
+ - problem: 18
+   correct_answer: 386
+   guestCount: 1
+   packageSizes: [1,5,10]
+   packageCosts: [386,1306,2292]
+
+ - problem: 19
+   correct_answer: 1248856
+   guestCount: 6152
+   packageSizes: [1,5,10,3]
+   packageCosts: [203,1297,2721,673]
+
+ - problem: 20
+   correct_answer: 706554
+   guestCount: 3171
+   packageSizes: [1,5,10,36,64]
+   packageCosts: [279,1114,2686,8076,17568]
+
+ - problem: 21
+   correct_answer: 1469057
+   guestCount: 5918
+   packageSizes: [1,5]
+   packageCosts: [318,1241]
+
+ - problem: 22
+   correct_answer: 779520
+   guestCount: 3360
+   packageSizes: [1,5,10]
+   packageCosts: [243,1160,2442]
+
+ - problem: 23
+   correct_answer: 295650
+   guestCount: 1458
+   packageSizes: [1,5,10,65]
+   packageCosts: [305,1473,2025,13776]
+
+ - problem: 24
+   correct_answer: 1469494
+   guestCount: 7098
+   packageSizes: [1,5,10,32,67]
+   packageCosts: [215,1240,2437,6624,14031]
+
+ - problem: 25
+   correct_answer: 1728713
+   guestCount: 7943
+   packageSizes: [1,5]
+   packageCosts: [323,1088]
+
+ - problem: 26
+   correct_answer: 743138
+   guestCount: 3621
+   packageSizes: [1,5,10]
+   packageCosts: [314,1424,2052]
+
+ - problem: 27
+   correct_answer: 1764737
+   guestCount: 7374
+   packageSizes: [1,5,10,73]
+   packageCosts: [274,1444,2393,20009]
+
+ - problem: 28
+   correct_answer: 896202
+   guestCount: 3678
+   packageSizes: [1,5,10,38,84]
+   packageCosts: [378,1268,2510,9257,21318]
+
+ - problem: 29
+   correct_answer: 1229762
+   guestCount: 5094
+   packageSizes: [1,5]
+   packageCosts: [259,1207]
+
+ - problem: 30
+   correct_answer: 1948752
+   guestCount: 6940
+   packageSizes: [1,5,10]
+   packageCosts: [344,1404,2963]
+
+ - problem: 31
+   correct_answer: 705115
+   guestCount: 3416
+   packageSizes: [1,5,10,70]
+   packageCosts: [259,1032,3078,17626]
+
+ - problem: 32
+   correct_answer: 699540
+   guestCount: 3203
+   packageSizes: [1,5,10,52,67]
+   packageCosts: [220,1450,2184,12681,19900]
+
+ - problem: 33
+   correct_answer: 1385811
+   guestCount: 5121
+   packageSizes: [1,5]
+   packageCosts: [339,1353]
+
+ - problem: 34
+   correct_answer: 1318672
+   guestCount: 5644
+   packageSizes: [1,5,10]
+   packageCosts: [324,1168,2499]
+
+ - problem: 35
+   correct_answer: 1532949
+   guestCount: 6765
+   packageSizes: [1,5,10,68]
+   packageCosts: [357,1133,2598,16596]
+
+ - problem: 36
+   correct_answer: 1751918
+   guestCount: 7860
+   packageSizes: [1,5,10,24,66]
+   packageCosts: [325,1341,2885,6439,14708]
+
+ - problem: 37
+   correct_answer: 643454
+   guestCount: 2242
+   packageSizes: [1,5]
+   packageCosts: [287,1535]
+
+ - problem: 38
+   correct_answer: 1359480
+   guestCount: 6216
+   packageSizes: [1,5,10]
+   packageCosts: [257,1096,2187]
+
+ - problem: 39
+   correct_answer: 389712
+   guestCount: 1764
+   packageSizes: [1,5,10,46]
+   packageCosts: [330,1104,2477,10602]
+
+ - problem: 40
+   correct_answer: 1386228
+   guestCount: 6534
+   packageSizes: [1,5,10,18,82]
+   packageCosts: [307,1215,2121,5270,17745]
+
+ - problem: 41
+   correct_answer: 336607
+   guestCount: 1386
+   packageSizes: [1,5]
+   packageCosts: [329,1214]
+
+ - problem: 42
+   correct_answer: 2102685
+   guestCount: 9274
+   packageSizes: [1,5,10]
+   packageCosts: [294,1261,2267]
+
+ - problem: 43
+   correct_answer: 1874718
+   guestCount: 8425
+   packageSizes: [1,5,10,8]
+   packageCosts: [378,1204,2257,1780]
+
+ - problem: 44
+   correct_answer: 787833
+   guestCount: 3721
+   packageSizes: [1,5,10,66,22]
+   packageCosts: [309,1101,2117,19399,6169]
+
+ - problem: 45
+   correct_answer: 1547303
+   guestCount: 6745
+   packageSizes: [1,5]
+   packageCosts: [386,1147]
+
+ - problem: 46
+   correct_answer: 879564
+   guestCount: 3972
+   packageSizes: [1,5,10]
+   packageCosts: [303,1321,2214]
+
+ - problem: 47
+   correct_answer: 876120
+   guestCount: 4200
+   packageSizes: [1,5,10,27]
+   packageCosts: [282,1251,2086,8029]
+
+ - problem: 48
+   correct_answer: 1533370
+   guestCount: 5476
+   packageSizes: [1,5,10,48,11]
+   packageCosts: [331,1532,3004,13439,3301]
+
+ - problem: 49
+   correct_answer: 992274
+   guestCount: 3873
+   packageSizes: [1,5]
+   packageCosts: [260,1281]
+
+ - problem: 50
+   correct_answer: 1227672
+   guestCount: 5064
+   packageSizes: [1,5,10]
+   packageCosts: [282,1411,2424]
+
+ - problem: 51
+   correct_answer: 1321158
+   guestCount: 5822
+   packageSizes: [1,5,10,32]
+   packageCosts: [300,1499,2269,9164]
+
+ - problem: 52
+   correct_answer: 474197
+   guestCount: 2178
+   packageSizes: [1,5,10,44,36]
+   packageCosts: [287,1259,2683,9563,9299]
+
+ - problem: 53
+   correct_answer: 2199768
+   guestCount: 9105
+   packageSizes: [1,5]
+   packageCosts: [299,1208]
+
+ - problem: 54
+   correct_answer: 2081610
+   guestCount: 7094
+   packageSizes: [1,5,10]
+   packageCosts: [351,1515,2934]
+
+ - problem: 55
+   correct_answer: 1945980
+   guestCount: 8535
+   packageSizes: [1,5,10,69]
+   packageCosts: [228,1464,2642,15920]
+
+ - problem: 56
+   correct_answer: 1810606
+   guestCount: 8335
+   packageSizes: [1,5,10,35,51]
+   packageCosts: [266,1473,2172,9980,13287]
+
+ - problem: 57
+   correct_answer: 436592
+   guestCount: 1697
+   packageSizes: [1,5]
+   packageCosts: [319,1286]
+
+ - problem: 58
+   correct_answer: 840310
+   guestCount: 3851
+   packageSizes: [1,5,10]
+   packageCosts: [240,1528,2182]
+
+ - problem: 59
+   correct_answer: 555186
+   guestCount: 2553
+   packageSizes: [1,5,10,27]
+   packageCosts: [357,1537,2173,6976]
+
+ - problem: 60
+   correct_answer: 1105058
+   guestCount: 5047
+   packageSizes: [1,5,10,87,58]
+   packageCosts: [245,1272,2272,24276,12699]
+
+ - problem: 61
+   correct_answer: 2056788
+   guestCount: 8729
+   packageSizes: [1,5]
+   packageCosts: [373,1178]
+
+ - problem: 62
+   correct_answer: 1534970
+   guestCount: 7132
+   packageSizes: [1,5,10]
+   packageCosts: [297,1407,2152]
+
+ - problem: 63
+   correct_answer: 1563428
+   guestCount: 7264
+   packageSizes: [1,5,10,57]
+   packageCosts: [325,1076,3041,12998]
+
+ - problem: 64
+   correct_answer: 1190616
+   guestCount: 5595
+   packageSizes: [1,5,10,25,29]
+   packageCosts: [316,1064,2407,6966,7516]
+
+ - problem: 65
+   correct_answer: 1604662
+   guestCount: 5772
+   packageSizes: [1,5]
+   packageCosts: [301,1390]
+
+ - problem: 66
+   correct_answer: 1120692
+   guestCount: 4583
+   packageSizes: [1,5,10]
+   packageCosts: [294,1386,2445]
+
+ - problem: 67
+   correct_answer: 517722
+   guestCount: 2255
+   packageSizes: [1,5,10,50]
+   packageCosts: [339,1347,2295,11880]
+
+ - problem: 68
+   correct_answer: 1994333
+   guestCount: 8847
+   packageSizes: [1,5,10,68,15]
+   packageCosts: [279,1494,2346,15326,4103]
+
+ - problem: 69
+   correct_answer: 1196694
+   guestCount: 4806
+   packageSizes: [1,5]
+   packageCosts: [249,1460]
+
+ - problem: 70
+   correct_answer: 1426007
+   guestCount: 5807
+   packageSizes: [1,5,10]
+   packageCosts: [321,1465,2455]
+
+ - problem: 71
+   correct_answer: 534633
+   guestCount: 2574
+   packageSizes: [1,5,10,78]
+   packageCosts: [263,1237,2813,16201]
+
+ - problem: 72
+   correct_answer: 356844
+   guestCount: 1572
+   packageSizes: [1,5,10,11,59]
+   packageCosts: [227,1176,2597,2554,17234]
+
+ - problem: 73
+   correct_answer: 2378210
+   guestCount: 9232
+   packageSizes: [1,5]
+   packageCosts: [281,1288]
+
+ - problem: 74
+   correct_answer: 1361170
+   guestCount: 6372
+   packageSizes: [1,5,10]
+   packageCosts: [269,1068,2663]
+
+ - problem: 75
+   correct_answer: 1043837
+   guestCount: 3921
+   packageSizes: [1,5,10,56]
+   packageCosts: [333,1331,2836,15986]
+
+ - problem: 76
+   correct_answer: 2108580
+   guestCount: 9330
+   packageSizes: [1,5,10,54,47]
+   packageCosts: [369,1226,2260,12770,13798]
+
+ - problem: 77
+   correct_answer: 856631
+   guestCount: 3161
+   packageSizes: [1,5]
+   packageCosts: [271,1509]
+
+ - problem: 78
+   correct_answer: 790970
+   guestCount: 3572
+   packageSizes: [1,5,10]
+   packageCosts: [286,1527,2214]
+
+ - problem: 79
+   correct_answer: 522729
+   guestCount: 2489
+   packageSizes: [1,5,10,93]
+   packageCosts: [258,1050,2874,19543]
+
+ - problem: 80
+   correct_answer: 1939500
+   guestCount: 8620
+   packageSizes: [1,5,10,96,91]
+   packageCosts: [331,1373,2250,21994,24845]
+
+ - problem: 81
+   correct_answer: 1198188
+   guestCount: 5182
+   packageSizes: [1,5]
+   packageCosts: [286,1156]
+
+ - problem: 82
+   correct_answer: 2272660
+   guestCount: 8741
+   packageSizes: [1,5,10]
+   packageCosts: [260,1454,2902]
+
+ - problem: 83
+   correct_answer: 1678620
+   guestCount: 7345
+   packageSizes: [1,5,10,25]
+   packageCosts: [286,1554,2285,7175]
+
+ - problem: 84
+   correct_answer: 796358
+   guestCount: 3326
+   packageSizes: [1,5,10,83,86]
+   packageCosts: [353,1197,2877,20607,22175]
+
+ - problem: 85
+   correct_answer: 1556262
+   guestCount: 5578
+   packageSizes: [1,5]
+   packageCosts: [279,1548]
+
+ - problem: 86
+   correct_answer: 752434
+   guestCount: 3161
+   packageSizes: [1,5,10]
+   packageCosts: [354,1420,2380]
+
+ - problem: 87
+   correct_answer: 309589
+   guestCount: 1393
+   packageSizes: [1,5,10,97]
+   packageCosts: [290,1317,2221,28144]
+
+ - problem: 88
+   correct_answer: 410209
+   guestCount: 1881
+   packageSizes: [1,5,10,81,55]
+   packageCosts: [369,1404,2180,21745,13386]
+
+ - problem: 89
+   correct_answer: 1501437
+   guestCount: 6745
+   packageSizes: [1,5]
+   packageCosts: [279,1113]
+
+ - problem: 90
+   correct_answer: 422248
+   guestCount: 1879
+   packageSizes: [1,5,10]
+   packageCosts: [279,1202,2246]
+
+ - problem: 91
+   correct_answer: 242306
+   guestCount: 1131
+   packageSizes: [1,5,10,97]
+   packageCosts: [260,1295,2142,27034]
+
+ - problem: 92
+   correct_answer: 2333377
+   guestCount: 11562
+   packageSizes: [1,5,10,92,38]
+   packageCosts: [338,1173,3009,18549,11248]
+
+ - problem: 93
+   correct_answer: 3816778
+   guestCount: 18456
+   packageSizes: [1,5]
+   packageCosts: [284,1034]
+
+ - problem: 94
+   correct_answer: 3084449
+   guestCount: 14617
+   packageSizes: [1,5,10]
+   packageCosts: [266,1207,2110]
+
+ - problem: 95
+   correct_answer: 5243878
+   guestCount: 19138
+   packageSizes: [1,5,10,44]
+   packageCosts: [296,1370,2750,12178]
+
+ - problem: 96
+   correct_answer: 3393665
+   guestCount: 14812
+   packageSizes: [1,5,10,63,80]
+   packageCosts: [347,1314,2291,18415,19586]
+
+ - problem: 97
+   correct_answer: 2760356
+   guestCount: 10089
+   packageSizes: [1,5]
+   packageCosts: [275,1368]
+
+ - problem: 98
+   correct_answer: 2652393
+   guestCount: 12116
+   packageSizes: [1,5,10]
+   packageCosts: [370,1144,2189]
+
+ - problem: 99
+   correct_answer: 3871520
+   guestCount: 17754
+   packageSizes: [1,5,10,32]
+   packageCosts: [275,1484,2583,6976]
+
+ - problem: 100
+   correct_answer: 3130363
+   guestCount: 15603
+   packageSizes: [1,5,10,44,75]
+   packageCosts: [354,1003,3024,9718,18644]
