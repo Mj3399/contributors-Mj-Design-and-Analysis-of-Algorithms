@@ -1,0 +1,507 @@
+##########################################
+# These problems were randomly generated.
+##########################################
+problem_set_number: 6
+problems: 100
+
+data:
+
+ - problem: 1
+   correct_answer: 61
+   north: [1,1,56]
+   west: [1,1,59]
+
+ - problem: 2
+   correct_answer: 102
+   north: [1,90,1]
+   west: [100,1,1]
+
+ - problem: 3
+   correct_answer: 165
+   north: [1,86,78]
+   west: [1,69,72]
+
+ - problem: 4
+   correct_answer: 276
+   north: [1,56,75]
+   west: [91,86,99]
+
+ - problem: 5
+   correct_answer: 148
+   north: [82,1,1]
+   west: [75,72,1]
+
+ - problem: 6
+   correct_answer: 178
+   north: [1,86,91]
+   west: [86,1,1]
+
+ - problem: 7
+   correct_answer: 191
+   north: [90,100,1]
+   west: [72,1,100]
+
+ - problem: 8
+   correct_answer: 139
+   north: [1,1,72]
+   west: [1,57,81]
+
+ - problem: 9
+   correct_answer: 163
+   north: [94,68,1]
+   west: [1,1,1]
+
+ - problem: 10
+   correct_answer: 144
+   north: [1,1,1]
+   west: [58,85,1]
+
+ - problem: 11
+   correct_answer: 160
+   north: [73,86,1]
+   west: [1,93,1]
+
+ - problem: 12
+   correct_answer: 66
+   north: [1,1,64]
+   west: [1,1,1]
+
+ - problem: 13
+   correct_answer: 231
+   north: [64,59,1]
+   west: [58,87,86]
+
+ - problem: 14
+   correct_answer: 176
+   north: [102,1,1]
+   west: [1,82,74]
+
+ - problem: 15
+   correct_answer: 189
+   north: [90,1,98]
+   west: [1,103,59]
+
+ - problem: 16
+   correct_answer: 163
+   north: [52,1,1,69]
+   west: [74,1,87,1]
+
+ - problem: 17
+   correct_answer: 215
+   north: [70,80,1,64]
+   west: [88,1,86,1]
+
+ - problem: 18
+   correct_answer: 92
+   north: [1,1,70,1]
+   west: [1,1,89,1]
+
+ - problem: 19
+   correct_answer: 283
+   north: [1,1,98,102]
+   west: [83,1,74,1]
+
+ - problem: 20
+   correct_answer: 285
+   north: [1,1,1,102]
+   west: [96,87,72,1]
+
+ - problem: 21
+   correct_answer: 160
+   north: [95,1,63,1]
+   west: [92,1,1,1]
+
+ - problem: 22
+   correct_answer: 237
+   north: [1,1,1,1]
+   west: [59,1,103,74]
+
+ - problem: 23
+   correct_answer: 160
+   north: [58,100,1,1]
+   west: [1,1,58,1]
+
+ - problem: 24
+   correct_answer: 264
+   north: [1,93,89,81]
+   west: [72,1,67,1]
+
+ - problem: 25
+   correct_answer: 139
+   north: [66,1,1,1]
+   west: [1,1,1,72]
+
+ - problem: 26
+   correct_answer: 152
+   north: [1,93,1,1]
+   west: [1,95,1,55]
+
+ - problem: 27
+   correct_answer: 207
+   north: [61,1,1,1]
+   west: [1,1,91,55]
+
+ - problem: 28
+   correct_answer: 308
+   north: [65,85,83,75]
+   west: [77,72,65,1]
+
+ - problem: 29
+   correct_answer: 217
+   north: [72,82,1,1]
+   west: [1,1,55,63]
+
+ - problem: 30
+   correct_answer: 152
+   north: [68,1,1,71]
+   west: [1,1,83,1]
+
+ - problem: 31
+   correct_answer: 365
+   north: [1,55,1,1,108]
+   west: [94,61,102,88,1]
+
+ - problem: 32
+   correct_answer: 259
+   north: [70,1,89,98,1]
+   west: [1,61,1,1,64]
+
+ - problem: 33
+   correct_answer: 280
+   north: [76,1,1,1,1]
+   west: [70,1,103,1,100]
+
+ - problem: 34
+   correct_answer: 349
+   north: [1,1,1,86,83]
+   west: [101,1,89,92,66]
+
+ - problem: 35
+   correct_answer: 292
+   north: [1,1,85,103,80]
+   west: [1,108,1,1,91]
+
+ - problem: 36
+   correct_answer: 272
+   north: [1,82,1,102,1]
+   west: [88,81,1,1,67]
+
+ - problem: 37
+   correct_answer: 74
+   north: [1,1,1,70,1]
+   west: [1,1,1,59,1]
+
+ - problem: 38
+   correct_answer: 239
+   north: [1,1,1,1,1]
+   west: [1,62,95,1,80]
+
+ - problem: 39
+   correct_answer: 287
+   north: [65,79,60,1,1]
+   west: [1,85,99,1,83]
+
+ - problem: 40
+   correct_answer: 203
+   north: [57,77,67,1,1]
+   west: [99,1,1,1,1]
+
+ - problem: 41
+   correct_answer: 362
+   north: [74,1,76,87,93]
+   west: [86,96,1,97,1]
+
+ - problem: 42
+   correct_answer: 165
+   north: [85,1,1,1,77]
+   west: [76,1,1,1,61]
+
+ - problem: 43
+   correct_answer: 212
+   north: [1,73,63,1,74]
+   west: [61,1,1,1,1]
+
+ - problem: 44
+   correct_answer: 382
+   north: [92,97,1,1,67]
+   west: [72,84,67,74,85]
+
+ - problem: 45
+   correct_answer: 244
+   north: [1,65,82,1,95]
+   west: [1,63,1,1,1]
+
+ - problem: 46
+   correct_answer: 360
+   north: [76,84,1,1,1,105]
+   west: [1,82,1,95,1,81]
+
+ - problem: 47
+   correct_answer: 254
+   north: [1,1,1,67,90,1]
+   west: [93,1,69,1,1,71]
+
+ - problem: 48
+   correct_answer: 341
+   north: [68,1,68,103,64,1]
+   west: [79,94,1,1,1,1]
+
+ - problem: 49
+   correct_answer: 412
+   north: [78,88,91,60,94,1]
+   west: [73,78,62,1,85,1]
+
+ - problem: 50
+   correct_answer: 209
+   north: [102,1,1,1,1,103]
+   west: [80,1,1,1,1,71]
+
+ - problem: 51
+   correct_answer: 396
+   north: [63,1,92,93,1,102]
+   west: [108,62,76,1,1,1]
+
+ - problem: 52
+   correct_answer: 464
+   north: [71,77,1,1,68,1]
+   west: [98,101,88,97,79,1]
+
+ - problem: 53
+   correct_answer: 470
+   north: [93,56,69,1,1,78]
+   west: [103,98,87,104,1,1]
+
+ - problem: 54
+   correct_answer: 426
+   north: [1,89,83,1,78,83]
+   west: [102,71,1,95,75,82]
+
+ - problem: 55
+   correct_answer: 395
+   north: [77,1,85,1,88,110]
+   west: [88,68,1,96,54,88]
+
+ - problem: 56
+   correct_answer: 413
+   north: [56,1,74,93,1,106]
+   west: [1,107,99,100,1,1]
+
+ - problem: 57
+   correct_answer: 318
+   north: [1,77,87,68,1,84]
+   west: [1,61,98,1,67,1]
+
+ - problem: 58
+   correct_answer: 356
+   north: [61,1,90,1,78,101]
+   west: [86,1,1,102,1,69]
+
+ - problem: 59
+   correct_answer: 339
+   north: [1,77,95,68,1,97]
+   west: [77,1,1,1,74,58]
+
+ - problem: 60
+   correct_answer: 261
+   north: [1,97,1,1,1,93]
+   west: [1,97,1,69,1,1]
+
+ - problem: 61
+   correct_answer: 436
+   north: [1,1,1,72,1,62,1]
+   west: [1,85,105,1,66,81,97]
+
+ - problem: 62
+   correct_answer: 374
+   north: [55,1,97,1,99,78,1]
+   west: [94,65,1,1,90,92,1]
+
+ - problem: 63
+   correct_answer: 377
+   north: [1,96,1,1,80,101,97]
+   west: [1,1,1,82,1,75,1]
+
+ - problem: 64
+   correct_answer: 375
+   north: [98,90,1,1,102,66,1]
+   west: [1,1,108,1,1,1,57]
+
+ - problem: 65
+   correct_answer: 327
+   north: [1,67,93,61,1,90,1]
+   west: [1,103,75,1,1,104,1]
+
+ - problem: 66
+   correct_answer: 434
+   north: [1,94,78,94,91,1,75]
+   west: [1,1,98,105,1,101,1]
+
+ - problem: 67
+   correct_answer: 210
+   north: [81,1,1,1,1,1,110]
+   west: [1,96,1,1,1,1,1]
+
+ - problem: 68
+   correct_answer: 516
+   north: [74,98,97,79,1,70,84]
+   west: [1,1,72,1,1,103,65]
+
+ - problem: 69
+   correct_answer: 229
+   north: [87,76,1,1,1,1,1]
+   west: [1,1,1,63,1,1,1]
+
+ - problem: 70
+   correct_answer: 467
+   north: [97,92,106,1,69,101,1]
+   west: [67,1,82,72,99,1,1]
+
+ - problem: 71
+   correct_answer: 229
+   north: [84,1,64,1,76,1,1]
+   west: [1,97,1,1,1,78,1]
+
+ - problem: 72
+   correct_answer: 489
+   north: [1,1,1,1,101,1,87]
+   west: [107,104,89,1,67,1,68]
+
+ - problem: 73
+   correct_answer: 398
+   north: [58,1,1,1,1,87,1]
+   west: [1,1,1,92,93,100,54]
+
+ - problem: 74
+   correct_answer: 470
+   north: [89,93,85,1,100,101,1]
+   west: [98,83,1,1,79,60,55]
+
+ - problem: 75
+   correct_answer: 462
+   north: [80,96,1,1,1,81,75]
+   west: [1,79,104,107,1,73,97]
+
+ - problem: 76
+   correct_answer: 637
+   north: [91,92,81,1,99,106,1,1]
+   west: [108,87,89,108,93,75,76,1]
+
+ - problem: 77
+   correct_answer: 394
+   north: [1,1,101,97,1,107,85,1]
+   west: [1,92,1,1,93,67,1,61]
+
+ - problem: 78
+   correct_answer: 467
+   north: [1,64,1,1,1,80,110,111]
+   west: [1,1,89,75,76,74,87,1]
+
+ - problem: 79
+   correct_answer: 441
+   north: [73,1,76,1,1,99,97,1]
+   west: [1,1,1,94,106,1,68,98]
+
+ - problem: 80
+   correct_answer: 440
+   north: [1,55,1,1,104,66,107,1]
+   west: [1,70,91,88,1,1,1,1]
+
+ - problem: 81
+   correct_answer: 487
+   north: [89,1,1,1,1,109,81,102]
+   west: [1,102,91,1,1,1,1,1]
+
+ - problem: 82
+   correct_answer: 346
+   north: [75,1,1,65,1,1,1,1]
+   west: [1,1,104,70,1,1,94,1]
+
+ - problem: 83
+   correct_answer: 482
+   north: [1,104,82,1,93,88,1,112]
+   west: [68,1,70,1,90,66,93,1]
+
+ - problem: 84
+   correct_answer: 362
+   north: [1,1,97,85,62,1,1,114]
+   west: [1,1,1,1,1,57,1,75]
+
+ - problem: 85
+   correct_answer: 525
+   north: [60,72,1,99,97,101,1,1]
+   west: [1,112,1,80,1,1,1,95]
+
+ - problem: 86
+   correct_answer: 411
+   north: [55,92,1,60,91,1,110,1]
+   west: [1,67,1,1,1,1,1,92]
+
+ - problem: 87
+   correct_answer: 451
+   north: [59,63,84,1,106,66,1,71]
+   west: [1,1,1,1,105,57,1,1]
+
+ - problem: 88
+   correct_answer: 361
+   north: [1,59,102,1,1,76,104,1]
+   west: [76,1,1,1,1,1,1,1]
+
+ - problem: 89
+   correct_answer: 462
+   north: [1,100,91,62,97,105,1,1]
+   west: [82,94,82,61,1,1,91,1]
+
+ - problem: 90
+   correct_answer: 537
+   north: [1,85,93,1,84,1,71,99]
+   west: [102,111,69,75,1,1,1,71]
+
+ - problem: 91
+   correct_answer: 606
+   north: [1,82,92,1,74,1,1,107,110]
+   west: [104,1,96,76,1,81,77,80,90]
+
+ - problem: 92
+   correct_answer: 366
+   north: [1,1,84,1,1,91,1,85,1]
+   west: [85,1,1,101,76,1,93,1,1]
+
+ - problem: 93
+   correct_answer: 679
+   north: [99,83,70,93,1,72,93,82,86]
+   west: [1,1,1,1,1,60,1,62,58]
+
+ - problem: 94
+   correct_answer: 621
+   north: [65,1,78,1,89,84,83,88,1]
+   west: [99,73,95,98,1,69,1,63,59]
+
+ - problem: 95
+   correct_answer: 404
+   north: [1,54,103,1,1,1,83,71,89]
+   west: [1,1,80,1,1,1,1,84,1]
+
+ - problem: 96
+   correct_answer: 466
+   north: [1,1,74,70,62,96,1,80,1]
+   west: [82,1,1,1,104,59,1,81,1]
+
+ - problem: 97
+   correct_answer: 355
+   north: [1,75,97,1,1,88,1,1,1]
+   west: [1,93,1,84,1,100,73,1,1]
+
+ - problem: 98
+   correct_answer: 559
+   north: [97,93,1,1,1,1,96,1,84]
+   west: [87,94,1,102,86,1,89,1,1]
+
+ - problem: 99
+   correct_answer: 368
+   north: [91,1,89,81,1,1,1,1,1]
+   west: [1,1,71,80,1,1,1,103,1]
+
+ - problem: 100
+   correct_answer: 482
+   north: [72,57,92,82,1,1,64,84,1]
+   west: [106,113,1,112,1,1,94,1,1]
